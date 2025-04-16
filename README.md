@@ -12,4 +12,4 @@ zadania z ćwiczeń
 4. Można uruchomić Jupyter Notebook/Lab i należy wybrać kernel
   "Python (moje_srodowisko)
 5. Uruchom aplikację Flask
-6. 
+6. Przy wprowadzaniu curl w terminalu należy użyć pojedynczego cudzysłowu do linku '.....'  
