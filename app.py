@@ -45,8 +45,4 @@ print(res.json())
 res = requests.get("http://127.0.0.1:5000/api/v1.0/predict?num1=2&num2=3")
 print(res.json())
 
-res = requests.get("http://127.0.0.1:5000/api/v1.0/predict")
-print(res.json())
 
-res = requests.get("http://127.0.0.1:5000/api/v1.0/predict?num1=abc&num2=4")
-print(res.json())
